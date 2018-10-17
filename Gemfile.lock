@@ -1,5 +1,6 @@
 PATH
   remote: .
+  remote: https://sometoken@site.com
   specs:
     ruby-gem-simple-vuln (0.1.0)
       nokogiri (= 1.5.4)
