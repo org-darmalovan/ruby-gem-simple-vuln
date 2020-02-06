@@ -17,6 +17,7 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 1.13)
   rake (~> 10.0)
+  paypal-sdk-rest (~> 1.7.4)
   ruby-gem-simple-vuln!
 
 BUNDLED WITH
